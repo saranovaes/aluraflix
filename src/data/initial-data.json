@@ -1,0 +1,67 @@
+[
+    {
+        "category": "Frontend",
+        "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw",
+        "description": "Formação de Front End na Alura",
+        "color": "#6BD1FF",
+        "videos": [
+            {
+                "id":"ZY3-MFxVdEw",
+                "title": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+               "description": ""
+                
+            },
+            {"id":"30nlBGjPRYM",
+            "title": "CAMINHOS PARA SER UM DEV FRONT-END EM 2023 (GUIA COMPLETO E ATUALIZADO)",
+            "description": "Se tornar um Dev Front-End em 2023 nunca foi tão... DIVERTIDO! Não é novidade que a área de Front-End vem crescendo e ficando cada vez mais complexa. Questão é saber o que e quando estudar cada assunto. Nesse guia em vídeo, explicamos quais são as tecnologias e as tendências para quem vai começar no Front-End em 2023."
+        },
+        {"id":"fpth65ts3cw",
+        "title": "Guia de carreira Front-end | #HipstersPontoTube",
+        "description": "Nesse primeiro episódio, confira o que é front-end e como seguir nessa área da tecnologia, através do Tech Guide front-end, um Guia de Estudos do iniciante ao avançado. São 3 níveis de Profundidade e 1 nível de Expansão, formando seu perfil como Dev Front-End"
+
+    },
+    {"id":"LqXqBgIUbJg",
+    "title": "Como se tornar um desenvolvedor FRONTEND? (Passo a passo / Roadmap)",
+    "description":"O desenvolvedor frontend além de ter alta demanda de mercado, esta entre os profissionais com maiores salários na area de tecnologia. Você quer ser um deles? Sei que muitos ficam perdidos e não sabem por o de começar, mas eu vou te mostrar um roadmap de tudo que você precisa saber para se tornar um desenvolvedor frontend. E no final darei dicas de cursos gratuitos."
+},
+
+{"id":"Em0R3csNMVE",
+"title": "O QUE É FRONT-END E BACK-END???",
+"description":"Nesse vídeo eu explico sobre as diferenças entre os conceitos de front-end e back-end e como eles estão conectados"
+},
+
+{"id":"PIro1he52Xw",
+"title": "Você precisa entender o que é API pra melhorar como DEV!",
+"description":"Conheça várias das mais diversas carreiras dentro da área de tecnologia, além de programação, e aproveite também para conhecer a EBAC, que inclusive oferece diversos cursos dessas profissões comentadas no vídeo!"
+}
+]
+},      
+{
+"category": "Backend",
+        "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM",
+        "description": "Formação de Backend",
+        "color": "#00C86F",
+        "videos": [
+{
+    "id":"xrRy3RI3HE4",
+"title": "Diferença entre Back-End e Front-End com Mario Souto | #HipstersPontoTube",
+"description":"Qual a diferença entre Back-end e Front-end? É possível se especializar nas duas áreas? Como é a rotina desses profissionais e com quais outras áreas da tecnologia acabam se relacionando? "
+},
+{
+    "id":"fffr8KjKdVw",
+"title": "PROGRAMADOR BACK-END: Como uma simples linha de código pode MUDAR TUDO? (Grupo Primo) | PRIMOTECH 09",
+"description":""
+},
+{
+    "id":"vFSNUmw32t0",
+"title": "Não sabe escolher entre FRONT-END vs BACK-END? Veja este video",
+"description":""
+}
+
+
+        ]
+    }
+]
+
+
+    
